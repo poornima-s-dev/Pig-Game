@@ -14,24 +14,6 @@
 
 ---
 
-## 🧩 Features
-
-- 🎮 Interactive and user-friendly interface  
-- 🎲 Real-time dice roll simulation  
-- 🔄 Player switching animation  
-- 🆕 "New Game" button to reset everything  
-- 💻 Pure **Vanilla JavaScript**, **HTML5**, and **CSS3** — no external libraries
-
----
-
-## 🛠️ Technologies Used
-
-- **HTML5** – structure  
-- **CSS3** – styling and layout  
-- **JavaScript (ES6)** – game logic and interactivity  
-
----
-
 ## 🚀 How to Run the Game
 
 1. **Download or clone** this repository:  
