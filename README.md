@@ -16,6 +16,5 @@
 
 ## 🚀 How to Run the Game
 
-1. **Download or clone** this repository:  
-   ```bash
-   git clone https://github.com/poornima-s-dev/pig-game.git
+You can play the game here:  
+🔗 **[Play Pig Game](https://poornima-s-dev.github.io/Pig-Game/)**
